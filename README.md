@@ -5,4 +5,4 @@ Credit Risk Analysis – EDA & Power BI Dashboard
 • Handled outliers and missing values
 • Built interactive Power BI dashboard
 
-Tools: Python, Power BI
+##Tools: Python, Power BI
